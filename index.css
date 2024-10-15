@@ -1,0 +1,15 @@
+/* Write your code here. */
+.container {
+  background-color: #0f172a;
+  font-family: "Roboto";
+  text-align: center;
+  background-size: cover;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+}
+.league-head {
+  font-size: 45px;
+  color: white;
+  padding-top: 200px;
+}
